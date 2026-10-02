@@ -131,7 +131,7 @@ p.citation {
 
 p.image img, img.home-icon {
   max-height: 400px;
-  max-width: 80%;
+  max-width: 100%;
   display: block;
   margin: auto;
 }
@@ -149,6 +149,7 @@ ul {
   margin-top: .5em;
   padding-left: 8px;
 }
+
 
 .index-button {
   background-color: white;
@@ -251,6 +252,7 @@ ul {
   border: none;
   cursor: pointer;
   border-radius: 10px;
+  padding: 5px 10px 5px 10px;
 }
 
 .where-am-i {
@@ -626,4 +628,23 @@ input[type="submit"] {
 
 .post-header.home {
   display: none;
+}
+
+
+
+/* Added by me  */
+
+button {
+  background-color: {{site.accent_color}};
+  color: white;
+  font-size: 16px;
+  border: .5px solid rgba(96, 74, 120, 1);
+  padding: 5px 10px 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 200px;
+  display: inline-block;
+  margin-left: 3px;
+  margin-bottom: 1.5em;
 }

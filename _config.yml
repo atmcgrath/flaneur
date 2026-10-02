@@ -1,16 +1,16 @@
 
 
 # --SITE SETTINGS--
-title: "Flâneur: testing static storymaps"
+title: "Flâneur"
 email: digitalscholarship@brynmawr.edu
-description:
+description: A test of static story map tools.
 baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 github_repo: https://github.com/atmcgrath/flaneur
 #headerimage: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg/1280px-Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
 
 # --COPYRIGHT-- (Date generated from last build)
-copyright_name: Dawn Childress
+copyright_name: Bryn Mawr Digital Scholarship
 license: CC BY-NC-SA 4.0
 
 # build settings
@@ -18,14 +18,14 @@ markdown: kramdown
 encoding: utf-8
 
 # --STYLES--
-accent_color: rgba(18, 127, 157, 1)  # accent color can be any css accepted value
+accent_color: "#36119C" #rgba(18, 127, 157, 1)  # accent color can be any css accepted value
 accent_font: Della Respira  # Gogle Fonts import link is in head.html. You can specify the accent font here and it will add it to the main.css
 base_font: >
   "Lato", sans-serif
 
 # --SOCIAL--
-twitter_username: kirschbombe
-github_username:  kirschbombe
+#twitter_username: kirschbombe
+github_username:  atmcgrath
 
 # --MAP SETTINGS--
 mapsettings:
@@ -34,7 +34,7 @@ mapsettings:
   minZoom: 0
   maxZoom: 20
   setView: '[48.856614, 2.352222], 12'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
-  marker-grouping: grouped # sets the default clustering action. Options: grouped, single
+  marker-grouping: single # sets the default clustering action. Options: grouped, single
   #directionapi: https://router.project-osrm.org/route/v1/walking/
   
 # Truncates map marker popup on small screens to only display post title

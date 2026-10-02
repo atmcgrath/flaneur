@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Saint Germain-Des-Prés"
-timelinedate: 2016-09-09
-categories: ["Church"]
+timelinedate: 2026-10-02
+categories: ["Story"]
 author: "Alice McGrath"
 lat: 48.853901
 lng: 2.334423
 headertitle: "My storymap"
 desc: "Saint Germain-Des-Prés."
-order: 3
+
 ---
 
 ![Abbaye de Saint-Germain-des-Prés](https://upload.wikimedia.org/wikipedia/commons/3/39/Abbaye_de_Saint-Germain-des-Pr%C3%A9s_140131_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)

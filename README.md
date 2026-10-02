@@ -12,6 +12,11 @@
 
 <!-- /TOC -->
 
+## Alice notes
+
+- All articles must have lat/lng values, even empty ones, to be rendered.
+- The order feature for pages determines where something goes on the table of contents (automatic add)
+
 
 ## Flâneur
 

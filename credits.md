@@ -2,8 +2,10 @@
 layout: page
 title: Credits
 permalink: /credits/
-order: 3
+order: 5
 ---
+
+* This site was created by Alice McGrath for Bryn Mawr Digital Scholarship.
 
 #### Flâneur
 * The Flâneur framework and Jekyll theme is developed and maintained by [Dawn Childress](https://github.com/kirschbombe) and [Niqui O'Neill](https://github.com/dnoneill). Flâneur was ported from the earlier mapping and texts framework, [Boulevardier](https://github.com/kirschbombe/boulevardier).

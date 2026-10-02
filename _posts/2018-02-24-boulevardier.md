@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Boulevardier: The Cocktail"
-timelinedate: 2013-09-01
-categories: ["Cocktails"]
+timelinedate: 2018-02-24
+categories: ["Story"]
 author: "Dawn Childress"
 lat: 48.869219
 lng: 2.3322078999999576
 headertitle: "Header title here"
 desc: "Harry's New York Bar, a well-known bar in Paris, is said to be the birthplace of classic cocktails such as the Bloody Mary, French 75, Side Car and the Boulevardier."
-order: 2
+
 ---
 "The boulevardier cocktail is similar to the Negroni, replacing the Negroni's gin component with bourbon whiskey or rye whiskey. Some boulevardier recipes call for 1 1/2 parts rather than 1 part whiskey."
 

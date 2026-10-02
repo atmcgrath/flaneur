@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Notre Dame"
-timelinedate: 2015-09-01
-categories: ["Church"]
+timelinedate: 2026-09-15
+categories: ["Story"]
 author: "author"
 lat: 48.853
 lng: 2.3498
 desc: "this is the map popup text"
-order: 1
+
 ---
 
 ![Paris, Notre Dame 2014](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg/1280px-Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
