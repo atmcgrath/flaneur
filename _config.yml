@@ -1,12 +1,13 @@
 
 
 # --SITE SETTINGS--
-title: "Flâneur: a Jekyll theme for maps and text"
-email: dchildress@library.ucla.edu
+title: "Flâneur: testing static storymaps"
+email: digitalscholarship@brynmawr.edu
 description:
 baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-github_repo: https://github.com/kirschbombe/flaneur
+github_repo: https://github.com/atmcgrath/flaneur
+#headerimage: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg/1280px-Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
 
 # --COPYRIGHT-- (Date generated from last build)
 copyright_name: Dawn Childress
