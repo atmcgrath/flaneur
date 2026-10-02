@@ -5,16 +5,17 @@ timelinedate: 2010-01-01
 categories: ["introduction"]
 lat:
 lng:
-author: "author"
-headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
+author:
+headertitle: 
 desc: "this is the map popup text"
 ---
-Body text goes here in Markdown
 
-![Image title](images/filename.jpg -or- imageurl)
-   {:.image} <-- this tag is needed for image formatting and for Lightbox feature -->
-Image attribution / caption.
-   {:.caption} <-- this tag is needed for caption formatting and for Lightbox feature -->
+![Harry's New York Bar, Paris](images/boulevardier2.jpg)
+   {:.image}
+[Photo via Flickr user Kenn Wilson](https://www.flickr.com/photos/kchrist/2893087153).
+   {:.caption}
+
+Body text goes here in Markdown
 
 #### Works cited
 

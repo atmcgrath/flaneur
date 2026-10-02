@@ -6,7 +6,7 @@ categories: ["Story"]
 author: "Alice McGrath"
 lat: 48.853901
 lng: 2.334423
-headertitle: "My storymap"
+headertitle:
 desc: "Saint Germain-Des-Prés."
 
 ---

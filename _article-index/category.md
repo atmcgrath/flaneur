@@ -1,5 +1,5 @@
 ---
 layout: article-index
-title: "Browse Articles: Category"
+title: "Browse: Category"
 status: category
 ---
